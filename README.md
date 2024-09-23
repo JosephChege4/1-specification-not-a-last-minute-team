@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Darren Zou, Peter D'Angelo, Jack Zhang, Gene Park, and Joseph Chege
 
 ## Stakeholders
 
@@ -15,7 +15,6 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
-
 As a student, I want to search for books by title, author, or subject so that I can quickly find the material I need for my studies or personal interests.
 
 As a student, I want to see real-time availability of books so that I know whether a book is currently available or checked out before going to the library.
@@ -28,10 +27,10 @@ As a student, I want to receive notifications when my books are due soon so that
 
 As a student, I want to check the library’s hours of operation and contact information through the app so that I can plan my visits or reach out if I have questions.
 
-
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+Peter D'Angelo
 
 ## Clickable Prototype
 
